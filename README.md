@@ -48,7 +48,7 @@ It includes **exploratory data analysis (EDA), data cleaning, feature engineerin
 ## 🚀 How to Run
 1. **Clone the repository:**  
 ```bash
-git clone https://github.com/Sumuk007/Titanic-Survival-Prediction.git
+git clone https://github.com/Diya570/Titanic-Survival-Prediction.git
 ```
 
 ---
